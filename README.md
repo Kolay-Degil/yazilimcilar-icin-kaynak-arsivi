@@ -52,4 +52,4 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 </details>
 
 ### Uyar-Kaldır
-Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Bende bu sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmış isem beni uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
+Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Biz de sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmışsak uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
