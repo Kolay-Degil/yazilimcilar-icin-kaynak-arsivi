@@ -1,55 +1,72 @@
-<img src="images/kolaydegil-logo.png" alt="Kolay Değil logo" />
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/kolaydegil-white-logo.png">
+        <source media="(prefers-color-scheme: light)" srcset="images/kolaydegil-logo.png">
+        <img alt="Kolay değil logo"
+            src="images/kolaydegil-logo.png">
+    </picture>
+</p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Kolay-Degil.yazilimcilar-icin-kaynak-arsivi)](#)
+  <p align="center">
+    <a href="https://www.youtube.com/kolaydegil">YouTube</a>
+    ·
+    <a href="https://discord.com/invite/gpMcm2k">Discord</a>
+    ·
+    <a href="https://twitter.com/kolaydegil19">X</a>
+    ·
+    <a href="https://instagram.com/kolaydegil19">Instagram</a>
+    ·
+    <a href="https://www.facebook.com/kolaydegil19">Facebook</a>
+  </p>
+<div align="center">
+Selamlar! Bize yukarıdaki adreslerden ulaşabilir, Discord kanalımıza katılarak sohbet ve etkinliklere dahil olabilirsiniz.
+</div>
 
-### ~ Sosyal Medyada bizi takip edin 🤙
-<a href="https://twitter.com/kolaydegil19" target="_blank"><img src="images/twitter.png" width="32" alt="Kolay değil twitter" /></a>
-<a href="https://www.facebook.com/kolaydegil19" target="_blank"><img src="images/facebook.png" width="32" alt="Kolay değil facebook" /></a>
-<a href="https://www.youtube.com/kolaydegil" target="_blank"><img src="images/youtube.png" width="32" alt="Kolay değil youtube" /></a>
-<a href="https://instagram.com/kolaydegil19" target="_blank"><img src="images/instagram.png" width="32" alt="Kolay değil instagram" /></a>
-<a href="https://discord.gg/GFKMreESRg" target="_blank"><img src="images/discord.png" width="32" alt="Kolay değil discord" /></a>
-  
-Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakları, içerik üreticilerini derleyip sizlere sunuyoruz. Yukarıdaki adreslerimizden bizlere ulaşabilir ayrıyeten discord kanalına katılıp sohbetlere & etkinlikle katılabilirsin.
+---
+
+<p>
+Kolay Değil topluluğu olarak bu repomuzda yazılımcılara yönelik faydalı kaynakları derleyip sizlere sunuyoruz.
+</p>
+
+<br/>
 
 <details>
-<summary>Takip edilmesi gereken içerik üreticileri</summary>  
-## Çok yakında..
+<summary>🌟 Takip Edilmesi Gereken İçerik Üreticileri</summary>
+
+- [Selman Kahya](https://www.youtube.com/@SelmanKahya) - Yazılım ve girişimcilik konularına değinen, Türkçe dilindeki en büyük YouTube kanalı.
+
 </details>
 
 <details>
-<summary>Girişim kurmak isteyen yazılımcılar için destekler & kaynaklar</summary>  
-## Çok yakında..
+<summary>🚀 Girişim Kurmak İsteyen Yazılımcılar İçin Destek ve Kaynaklar</summary>
+
 </details>
 
 <details>
-<summary>Cloud kaynakları</summary>  
-## Çok yakında..
+<summary>☁️ Cloud Kaynakları</summary>
+
 </details>
 
 <details>
-<summary>Web geliştirme kaynakları</summary>  
-## Çok yakında..
+<summary>🌐 Web Geliştirme Kaynakları</summary>
+
 </details>
 
 <details>
-<summary>Mobil Uygulama Geliştirme kaynakları</summary>  
-## Çok yakında..
+<summary>📱 Mobil Uygulama Geliştirme Kaynakları</summary>
+
 </details>
 
 <details>
-<summary>Oyun geliştirme kaynakları</summary>  
-## Çok yakında..
+<summary>🎮 Oyun Geliştirme Kaynakları</summary>
+
 </details>
 
 <details>
-<summary>Freelance hizmet verebileceğiniz siteler</summary>  
-## Çok yakında..
+<summary>💼 Freelance Hizmet Verebileceğiniz Siteler</summary>
+
 </details>
 
-<details>
-<summary>Cloud kaynakları</summary>  
-## Çok yakında..
-</details>
+#### ⚖️ İhlal Bildirimi ve İçerik Kaldırma Politikası
 
-### Uyar-Kaldır
-Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Biz de sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmışsak uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
+İhlal Bildirimi ve İçerik Kaldırma Politikamız, telif hakkıyla korunan içeriğin izinsiz olarak yer aldığını tespit ettiğinizde, içeriğin kaldırılması talebinde bulunma sürecini düzenler. Eğer bu tür bir eserin repomuzda yer aldığını fark ederseniz, lütfen bize bildirin. İçeriğiniz, talebinizi aldığımız andan itibaren en geç 3 iş günü içinde incelenerek gerektiğinde kaldırılacaktır.
