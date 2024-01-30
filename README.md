@@ -2,54 +2,71 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Kolay-Degil.yazilimcilar-icin-kaynak-arsivi)](#)
 
-### ~ Sosyal Medyada bizi takip edin 🤙
-<a href="https://twitter.com/kolaydegil19" target="_blank"><img src="images/twitter.png" width="32" alt="Kolay değil twitter" /></a>
-<a href="https://www.facebook.com/kolaydegil19" target="_blank"><img src="images/facebook.png" width="32" alt="Kolay değil facebook" /></a>
-<a href="https://www.youtube.com/kolaydegil" target="_blank"><img src="images/youtube.png" width="32" alt="Kolay değil youtube" /></a>
+### Sosyal Medyada bizi takip edin ✨
+
+<a href="https://x.com/kolaydegil19" target="_blank"><img src="images/x.png" width="32" alt="Kolay değil X" /></a>
 <a href="https://instagram.com/kolaydegil19" target="_blank"><img src="images/instagram.png" width="32" alt="Kolay değil instagram" /></a>
+<a href="https://www.facebook.com/kolaydegil19" target="_blank"><img src="images/facebook.png" width="32" height="32" alt="Kolay değil facebook" /></a>
 <a href="https://discord.gg/GFKMreESRg" target="_blank"><img src="images/discord.png" width="32" alt="Kolay değil discord" /></a>
-  
+<a href="https://www.youtube.c
+om/kolaydegil" target="_blank"><img src="images/youtube.png" width="32" height="32" alt="Kolay değil youtube" /></a>
+
 Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakları, içerik üreticilerini derleyip sizlere sunuyoruz. Yukarıdaki adreslerimizden bizlere ulaşabilir ayrıyeten discord kanalına katılıp sohbetlere & etkinlikle katılabilirsin.
 
+- Online olarak sunulan (çoğunlukla) ücretsiz yazılım kurslarının listesi için [buraya](./COURSES.md) gidiniz.
+- Online olarak sunulan yazılım ile ilgili kitap listesi için [buraya](./BOOKS.md) gidiniz.
+
+> Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
+
+## Table Of Contents
+
 <details>
-<summary>Takip edilmesi gereken içerik üreticileri</summary>  
+<summary>Frontend</summary>
+
+- [[EN] Shadcn UI](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) - Shadcn UI, React için tasarlanmış, erişilebilir, özelleştirilebilir ve kullanımı kolay bir component kütüphanesidir.
+
+</details>
+
+<details>
+<summary>Backend</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Girişim kurmak isteyen yazılımcılar için destekler & kaynaklar</summary>  
+<summary>Mobile</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Cloud kaynakları</summary>  
+<summary>Cloud</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Web geliştirme kaynakları</summary>  
+<summary>Game Development</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Mobil Uygulama Geliştirme kaynakları</summary>  
+<summary>Security</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Oyun geliştirme kaynakları</summary>  
+<summary>Artificial Intelligence</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Freelance hizmet verebileceğiniz siteler</summary>  
+<summary>Freelance</summary>  
 ## Çok yakında..
 </details>
 
 <details>
-<summary>Cloud kaynakları</summary>  
+<summary>Startup</summary>  
 ## Çok yakında..
 </details>
 
 ### Uyar-Kaldır
+
 Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Biz de sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmışsak uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
