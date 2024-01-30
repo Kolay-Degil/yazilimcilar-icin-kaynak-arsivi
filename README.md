@@ -34,6 +34,8 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 
 <details>
 <summary>Mobile</summary>
+
+### Flutter
   
 - [[TR] Veli Bacık Flutter](https://www.youtube.com/watch?v=lpvuM9lo3HU&list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l) - Veli Bacık tarafından detaylıca hazırlanmış, güncelliğini koruyan, temelden zirveye Flutter eğitimi.
   
