@@ -33,8 +33,16 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 </details>
 
 <details>
-<summary>Mobile</summary>  
-## Çok yakında..
+<summary>Mobile</summary>
+
+### Flutter
+  
+- [[TR] Veli Bacık Flutter](https://www.youtube.com/watch?v=lpvuM9lo3HU&list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l) - Veli Bacık tarafından detaylıca hazırlanmış, güncelliğini koruyan, temelden zirveye Flutter eğitimi.
+  
+- [[EN] HeyFlutter](https://www.youtube.com/@HeyFlutter) - Flutter ile ilgilenenlerin zaten çok iyi bildiği Youtube kanalı. Uzun videolardansa bir alana yoğunlaşmış kısa ve pratik içerikleriyle ön plana çıkıyor.
+  
+- [[EN] Flutter Mapp](https://www.youtube.com/@FlutterMapp) - Yine HeyFlutter gibi pratik ve hızlı anlatımıyla çok yararlı bir Youtube kanalı.
+  
 </details>
 
 <details>
