@@ -29,7 +29,15 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 
 <details>
 <summary>Backend</summary>  
-## Çok yakında..
+
+- [[EN] Postman](https://www.postman.com/) - Postman , API geliştirme ve test süreçlerini kolaylaştıran bir araç.
+
+- [[EN] Mongoose](https://mongoosejs.com/) - Mongoose , MongoDB veritabanı için JavaScript nesne modelleme aracı, MongoDB üzerinde işlem yapmayı kolaylaştıran bir ORM (Object-Relational Mapping) kütüphanesi.
+
+- [[EN] Slugify](https://www.npmjs.com/package/slugify) - Slugify , metinleri URL uyumlu hale getiren, özel karakterleri kaldıran bir npm paketi.
+
+- [[EN] Bcrypt](https://www.npmjs.com/package/bcrypt) - Bcrypt şifreleme işlemleri için kullanılan, özellikle kullanıcı şifrelerini güvenli bir şekilde depolamak için tercih edilen bir npm paketi.
+
 </details>
 
 <details>
