@@ -38,6 +38,17 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 
 - [[EN] Bcrypt](https://www.npmjs.com/package/bcrypt) - Bcrypt şifreleme işlemleri için kullanılan, özellikle kullanıcı şifrelerini güvenli bir şekilde depolamak için tercih edilen bir npm paketi.
 
+- [[EN] Express.js](https://expressjs.com/) - Node.js tabanlı minimalist bir web uygulama çerçevesidir, web uygulamalarının hızlı ve etkili bir şekilde geliştirilmesine olanak tanır.
+
+- [[EN] JWT Token](https://jwt.io/) - Bilgilerin güvenli bir şekilde iletilmesini sağlayan, JSON formatındaki bir veri yapısıdır. Token içinde taşınan bilgiler, dijital imza ile korunur ve genellikle kimlik doğrulama amacıyla kullanılır.
+
+- [[EN] Socket.io](https://socket.io/) - Gerçek zamanlı ve çift yönlü iletişimi destekleyen bir JavaScript kütüphanesidir, özellikle web uygulamalarında anlık iletişim için kullanılır.
+
+- [[EN] Nodemailer](https://www.npmjs.com/package/nodemailer) - Node.js uygulamalarında e-posta göndermeyi kolaylaştırmak amacıyla geliştirilmiş bir modüldür.
+
+- [[EN] Helmet](https://www.npmjs.com/package/helmet) -  Express.js tabanlı web uygulamalarında otomatik olarak güvenlik önlemleri uygulayan bir orta yazılım modülüdür, HTTP başlıkları üzerinden çeşitli saldırılara karşı koruma sağlar.
+
+
 </details>
 
 <details>
