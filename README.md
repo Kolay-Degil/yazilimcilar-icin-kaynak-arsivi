@@ -81,7 +81,17 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 
 <details>
 <summary>Artificial Intelligence</summary>  
-## Çok yakında..
+
+- [[EN] Hugging Face](https://huggingface.co/) - Açık kaynaklı modelleri, büyük veri setlerini ve öğrenme materyallerini içerisinde bulunduran bir platformdur. 
+
+- [[EN] scikit-learn](https://scikit-learn.org/stable/) - Temel makine öğrenmesi modellerini kullanmaya olanak sağlayan bir Python kütüphanesidir.
+
+- [[EN] TensorFlow](https://www.tensorflow.org/?hl=en) - Derin sinir ağlarını oluşturmaya imkan veren açık kaynaklı bir python kütüphanesidir.
+
+- [[EN] PyTorch](https://pytorch.org/) - Torch tabanlı, açık kaynaklı bir derin öğrenme kütüphanesidir.
+
+- [[EN] FastAPI](https://fastapi.tiangolo.com/) - Python 3.8+ ile standart Python tip belirteçlerine dayalı olarak API’lar oluşturmak için modern ve hızlı bir web framework’tür.
+
 </details>
 
 <details>
