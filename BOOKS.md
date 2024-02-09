@@ -3,8 +3,7 @@ Aşağıda yazılım, girişimcilik vb. konulardaki ücretsiz ve/veya açık kay
 ### Frontend
 
 - [[EN] Essential TypeScript 4](https://books-library.net/files/books-library.net-10151705Xv7Z7.pdf) - TypeScript book from beginner to Pro.
-
-
+- [[EN] Total TypeScript - TypeScript Book ](https://github.com/total-typescript/total-typescript-book/blob/main/book-content/book.md) - TypeScript book from Matt Pocock.
 
 ### Artificial Intelligence
 
